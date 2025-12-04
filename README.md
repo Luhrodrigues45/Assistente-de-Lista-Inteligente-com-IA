@@ -49,9 +49,10 @@
 
 # 🧠 Prompt Resumido (PRD) Utilizado com IA:
 ``` bash
-Crie o conceito de um aplicativo chamado MarketMind. O app deve ajudar usuários a organizar listas de compras no supermercado. Ele precisa ter:
+Crie o conceito de um aplicativo para listar produtos e valor no supermercado. O app deve ajudar usuários a organizar listas de compras no supermercado. Ele precisa ter:
 
 - Campo para adicionar produto + preço manualmente;
+- Tela de login e cadastro;
 - Atualização automática do valor total do carrinho;
 - Possibilidade de adicionar itens por comando de voz;
 - Campo planejado para leitura de código de barras, porém inicialmente desativado;
