@@ -1,4 +1,4 @@
-# 📌 Política de Uso — Assistente de Lista Inteligente com IA (Projeto Educacional)
+# 📌 Política de Uso: Assistente de Lista Inteligente com IA
 
 É um aplicativo experimental desenvolvido para fins de estudo, sem finalidade comercial. O uso do app implica ciência e concordância dos termos abaixo:
 
