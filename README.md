@@ -1,2 +1,2 @@
 # App-de-organizacao-de-listas-para-supermercado
-Feito com IA + Lovable
+Repositório em construção para o desafio da DIO + banco da caixa...
