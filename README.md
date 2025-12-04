@@ -1,2 +1,2 @@
-# App-de-organizacao-de-listas-para-supermercado
+# Assistente de Lista Inteligente com IA
 Repositório em construção para o desafio da DIO + banco da caixa...
