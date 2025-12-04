@@ -35,7 +35,7 @@
 - Campo para leitura de código de barras (planejado, mas desativado nesta versão).
 
 **📌 Cadastro simples: Basta cadastrar um e-mail e senha (o e-mail não precisa existir):**
-- O cadastro é feito somente para que seus produtos registrados não se percam caso você atualize a página sem querer.
+- O cadastro existe apenas para manter seus itens salvos mesmo se a página for atualizada.
 - Exemplo: <br>
   <img width="513" height="596" alt="image" src="https://github.com/user-attachments/assets/19356302-f973-486e-80af-2a0eba2bb3c3" />
 
