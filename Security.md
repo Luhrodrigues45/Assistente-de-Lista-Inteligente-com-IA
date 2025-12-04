@@ -32,4 +32,4 @@ Este aplicativo é um projeto educacional, sem finalidade comercial. Seu uso é 
 ---
 
 🔒 **Licença Aplicada:**  
-O projeto está protegido pela **Licença de Uso Não Comercial**, disponível no arquivo [License](./Lincese).
+O projeto está protegido pela **Licença de Uso Não Comercial**, disponível no arquivo [License](./License).
