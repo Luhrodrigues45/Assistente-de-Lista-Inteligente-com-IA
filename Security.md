@@ -1,35 +1,37 @@
 # 📌 Política de Uso: Assistente de Lista Inteligente com IA
 
-Este aplicativo é um projeto educacional, sem finalidade comercial. Seu uso é gratuito, destinado apenas a aprendizado e experimentação. Ao utilizar o app, você declara estar ciente e de acordo com os termos abaixo.
+Este aplicativo é um projeto educacional, sem finalidade comercial. O uso é gratuito e destinado apenas à prática e estudo com ferramentas de Inteligência Artificial. Ao utilizar a aplicação, você declara estar ciente e de acordo com os termos abaixo.
 
 ---
 
 ### 📎 Coleta de Informações
-- O aplicativo solicita apenas e-mail e senha para acesso;
-- O e-mail não precisa ser real e não passa por verificação;
-- Nenhum dado sensível (como CPF, endereço, telefone, cartão, etc.) é solicitado, coletado ou armazenado.
+- O aplicativo solicita e-mail e senha apenas para criar um perfil de uso local;
+- O e-mail não precisa ser real e não é verificado;
+- Nenhum dado sensível (como CPF, endereço, telefone, número de cartão, etc.) é solicitado ou tratado pela aplicação.
 
 ---
 
 ### 🔐 Uso e Armazenamento dos Dados
-- As informações inseridas (produtos, preços e login) são armazenadas de forma simples e podem ser excluídas sem aviso prévio;
-- Como o projeto é experimental, podem ocorrer falhas, instabilidades e perda de dados sem responsabilidade da autora.
+- **Todos os dados inseridos (login, produtos e valores) são armazenados apenas no seu navegador**, utilizando armazenamento local e temporário;
+- Nenhum dado é enviado para servidores, bancos de dados, APIs externas ou armazenado pela desenvolvedora;
+- **Ao limpar o navegador, utilizar outro aparelho ou fechar a guia**, as informações podem ser perdidas permanentemente;
+- Por ser experimental, o app pode falhar e perder dados a qualquer momento, sem responsabilidade da autora.
 
 ---
 
 ### 🧪 Natureza Experimental e Não Comercial
-- O aplicativo foi criado exclusivamente para fins de estudo;
-- É proibido utilizá-lo para fins comerciais, monetização ou como serviço profissional sem autorização por escrito da desenvolvedora;
-- O aplicativo pode ser alterado, desativado ou removido a qualquer momento, sem aviso prévio.
+- Este software foi desenvolvido para fins educacionais e não fornece garantia de funcionamento, estabilidade ou precisão;
+- É proibido utilizar o aplicativo ou seu código para fins comerciais, monetização, oferta de serviços ou lucro, sem autorização prévia e por escrito da desenvolvedora;
+- O projeto pode ser alterado, pausado ou removido a qualquer momento, sem aviso prévio.
 
 ---
 
 ### 👤 Responsabilidade do Usuário
-- Não insira dados reais, sensíveis ou privados no aplicativo;
-- O usuário é responsável por qualquer conteúdo que inserir no sistema;
-- Ao usar o app, o usuário concorda que o software é experimental e sem garantias de funcionamento.
+- Não insira dados reais, sensíveis, particulares ou privados no aplicativo;
+- O usuário é inteiramente responsável por qualquer informação que decidir registrar;
+- Ao utilizar o app, o usuário reconhece que está utilizando um software experimental, sem garantias de continuidade e armazenamento persistente.
 
 ---
 
-🔒 **Licença Aplicada:**  
-O projeto está protegido pela **Licença de Uso Não Comercial**, disponível no arquivo [License](./License).
+🔒 **Licença Aplicada:**
+O projeto é protegido pela **Licença de Uso Não Comercial**, descrita no arquivo [License](./License), garantido uso livre apenas para fins pessoais e educacionais, sem fins lucrativos.
