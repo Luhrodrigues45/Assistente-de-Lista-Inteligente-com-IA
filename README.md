@@ -85,6 +85,6 @@ Antes de utilizar, leia a Política de Uso completa: 👉 [Clique aqui para aces
 
 ## 🔗 Compartilhe com a comunidade 🧡
 
-Por favor, se esse conteúdo te ajudou, não esqueça de compartilhar 😁
+Se esse conteúdo te ajudou, não esqueça de compartilhar 😁
 
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/Luhrodrigues45/Assistente-de-Lista-Inteligente-com-IA) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Luhrodrigues45/Assistente-de-Lista-Inteligente-com-IA) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/Luhrodrigues45/Assistente-de-Lista-Inteligente-com-IA)
+[![GitHub Repo stars](https://img.shields.io/badge/Compartilhe%20no-Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/Luanacyberdef/Assistente-de-Lista-Inteligente-com-IA) [![GitHub Repo stars](https://img.shields.io/badge/Compartilhe%20no-Reddit-%23ff5700?logo=Reddit&logoColor=white)](https://www.reddit.com/submit?url=https://github.com/Luanacyberdef/Assistente-de-Lista-Inteligente-com-IA) [![GitHub Repo stars](https://img.shields.io/badge/Compartilhe%20no-Twitter-black?logo=x&logoColor=white)](https://twitter.com/share?url=https://github.com/Luanacyberdef/Assistente-de-Lista-Inteligente-com-IA) [![GitHub Repo stars](https://img.shields.io/badge/Compartilhe%20no-Facebook-%231976D2?logo=Facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Luanacyberdef/Assistente-de-Lista-Inteligente-com-IA)
