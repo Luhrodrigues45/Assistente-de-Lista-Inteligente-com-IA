@@ -18,7 +18,7 @@
 ## 📋 Metodologia e Criação
 Este projeto foi desenvolvido como requisito de conclusão do **bootcamp [Dio](https://web.dio.me/play?section_type=bootcamp)**, demonstrando a aplicação prática de conceitos de desenvolvimento e estratégia de produto.
 
-A solução foi concebida através de uma **abordagem moderna de desenvolvimento ágil**, utilizando:
+A solução foi criada através de uma **abordagem moderna de desenvolvimento ágil**, utilizando:
 * **Google Gemini:** Como parceiro de design e arquitetura, responsável pela estruturação, lógica e refinamento do Product Requirements Document (PRD).
 * **Plataforma [Lovable](https://lovable.dev/):** Para a criação e prototipagem *low-code* da aplicação web.
 
@@ -81,7 +81,7 @@ Antes de utilizar, leia a Política de Uso completa: 👉 [Clique aqui para aces
 
 ## 🤖 Uso de IA:
 > [!NOTE]
-> Parte deste conteúdo foi elaborada com apoio de ferramentas de IA, utilizadas como auxílio na organização e redação do texto, com revisão e validação integral pelo autor.
+> Parte deste conteúdo foi elaborada com apoio de ferramenta de IA, utilizada como auxílio na organização do texto, com revisão e validação integral pelo autor.
 
 ## 🔗 Compartilhe com a comunidade 🧡
 
